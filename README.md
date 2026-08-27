@@ -3,7 +3,7 @@
 # C Programming Labs
        
 ### Master the C Programming Language Through Structured Learning, Practical Coding, and Real-World Projects
-    
+        
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Compiler-GCC-F34B7D?style=for-the-badge&logo=gnu&logoColor=white" />
